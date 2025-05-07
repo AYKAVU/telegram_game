@@ -7,7 +7,7 @@ import random
 import asyncio
 
 # Инициализация бота
-API_TOKEN = '7842695980:AAFnIgz8wMLMijqKF95Ws0G2UkZuYcEgdOk'  # Замени на токен от @BotFather
+API_TOKEN = 'Токен'  # Замени на токен от @BotFather
 bot = Bot(token=API_TOKEN)
 router = Router()
 
